@@ -12,7 +12,7 @@
         <name>My city weather</name>
         <no_tabs>false</no_tabs>
         <order/>
-        <owner display_value="Afsar Sheikh">6816f79cc0a8016401c5a33be04be441</owner>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
         <restrict_to_roles>snc_internal</restrict_to_roles>
         <role_override>true</role_override>
         <roles/>
