@@ -7,6 +7,7 @@
         <element label="Precipitation" max_length="10" name="precipitation" type="string"/>
         <element label="Region" max_length="50" name="region" type="string"/>
         <element label="Temp C" max_length="10" name="temp_c" type="string"/>
+        <element label="Test New Column" max_length="40" name="test_new_column" type="string"/>
         <element label="Time zone" max_length="100" name="time_zone" type="string"/>
         <element label="Wind speed" max_length="10" name="wind_speed" type="string"/>
     </element>
