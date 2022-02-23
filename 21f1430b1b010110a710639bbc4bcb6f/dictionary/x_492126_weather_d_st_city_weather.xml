@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="read_only=true" label="City weather" max_length="40" name="x_492126_weather_d_st_city_weather" type="collection">
         <element display="true" label="City" max_length="50" name="city" type="string"/>
+        <element label="Create Branch" max_length="40" name="create_branch" type="string"/>
         <element label="Description" max_length="100" name="description" type="string"/>
         <element label="Humidity" max_length="10" name="humidity" type="string"/>
         <element label="icon" max_length="1024" name="icon" type="url"/>
